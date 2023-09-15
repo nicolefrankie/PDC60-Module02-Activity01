@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.deps.json
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.dll
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\ref\MVVM.dll
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.pdb
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\View\Page1.xaml.g.cs
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.AssemblyInfo.cs
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.dll
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\refint\MVVM.dll
+C:\Users\User\Desktop\Capuno_NicoleFrankie\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.pdb
